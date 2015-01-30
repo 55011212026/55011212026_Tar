@@ -62,6 +62,6 @@ class login {
     
 }
 
-let test = login(user: "Wannawit", passwd: "55011212026", typeKey: 3)
+let test = login(user: "Wannawit", passwd: "55011212026", typeKey: 4)
 
 
